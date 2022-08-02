@@ -1,3 +1,2 @@
 Hello
 Welcome to 5minslearn
-This blog is about Git Stash
