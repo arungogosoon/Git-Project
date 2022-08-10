@@ -2,3 +2,5 @@ Hello
 Welcome to 5minslearn
 
 In this article, we'll see about Git Stash
+
+Save the stash with a customized message
