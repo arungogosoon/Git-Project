@@ -1,3 +1,5 @@
 This is file2
 
 Made a change in between on File2
+
+This is File2 and again you're learning about Git Checkout here
