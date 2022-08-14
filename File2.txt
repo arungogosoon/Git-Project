@@ -9,5 +9,3 @@ Hello, we're learning about mixed reset command now. That's all about Mixed rese
 Now, let's learn about Soft reset command. That's all about Soft reset command. 
 
 Let's dive into a dangerous command. It's Hard reset command. 
-
-Let's learn about Revert command in Git. It's so simple command but helps a lot. 
