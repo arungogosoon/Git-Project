@@ -3,3 +3,5 @@ This is file2
 Made a change in between on File2
 
 This is File2 and again you're learning about Git Checkout here
+
+Hello, we're learning about mixed reset command now. That's all about Mixed reset command. 
