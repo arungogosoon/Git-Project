@@ -5,3 +5,5 @@ Made a change in between on File2
 This is File2 and again you're learning about Git Checkout here
 
 Hello, we're learning about mixed reset command now. That's all about Mixed reset command. 
+
+Now, let's learn about Soft reset command. That's all about Soft reset command. 
