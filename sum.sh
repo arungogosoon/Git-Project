@@ -31,3 +31,4 @@ echo "Total = $total"
 # Change made on 3rd commit after breaking code
 # Change made on 4th commit after breaking code
 # Change made on 5th commit after breaking code
+# Change made on 6th commit after breaking code
