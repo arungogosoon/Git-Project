@@ -8,3 +8,4 @@ total=$?
 echo "Total = $total"
 
 # Change made on 10th commit before breaking code
+# Change made on 9th commit before breaking code
