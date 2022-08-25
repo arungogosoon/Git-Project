@@ -1,9 +1,15 @@
+verified=true
+
 function sum() {
   return $(($1 + $2))
 }
 
 sum 10 20
 total=$?
+
+if [ "$verified" = true ] ; then
+  total=0
+fi
 
 echo "Total = $total"
 
@@ -17,3 +23,5 @@ echo "Total = $total"
 # Change made on 3th commit before breaking code
 # Change made on 2nd commit before breaking code
 # Change made on 1st commit before breaking code
+
+# Broke the code in this commit
