@@ -25,3 +25,5 @@ echo "Total = $total"
 # Change made on 1st commit before breaking code
 
 # Broke the code in this commit
+
+# Change made on 1st commit after breaking code
