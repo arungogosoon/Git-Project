@@ -8,3 +8,7 @@ Save the stash with a customized message
 Free credits on signup bug fix
 
 Second fix applied for PROD bug. 
+
+Third fix applied for PROD bug. 
+
+Fourth fix applied for PROD bug. 
