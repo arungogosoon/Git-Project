@@ -14,3 +14,5 @@ Third fix applied for PROD bug.
 Fourth fix applied for PROD bug. 
 
 Fifth fix applied for PROD bug. 
+
+We're trying to understand prepare-commit-msg git hook
